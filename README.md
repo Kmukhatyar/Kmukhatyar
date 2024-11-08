@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kmukhatyar
+- 👋 Hi, I’m uneaten_cookie
 - 👀 I’m interested in coding, reading, and logic puzzles
 - 🌱 I’m currently learning HTML, CSS, and Python
 - 📫 You can email me on redbot516@gmail.com
